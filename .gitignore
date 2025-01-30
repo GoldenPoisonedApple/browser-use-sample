@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# 環境設定ファイル
+.env
+.venv/
+venv/
+env/
+env.bak/
+
+# IDE設定
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# OS生成ファイル
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# その他
+*.log
+*.tmp
+*.bak
+
+# browser-use
+agent_history.gif
+result/
