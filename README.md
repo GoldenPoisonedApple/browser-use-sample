@@ -8,3 +8,7 @@
 - 使用LLM Gemini
 無料APIを取得して
 ```GOOGLE_API_KEY=<YOUR API KEY>```と記載した.envファイルを作成すればヨシ
+
+## Gemini
+- API取得 https://aistudio.google.com/apikey
+- API使用状況 https://console.cloud.google.com/apis/dashboard
